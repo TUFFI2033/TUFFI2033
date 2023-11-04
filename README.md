@@ -32,7 +32,7 @@ My name is Ivan. I am an IOS Developer from Ukraine. <img src="https://media.gip
 
 - 💻 I am studying and practicing mobile app development.
 
-- :zap: In my free time I am interested in sports and computer technology..
+- :zap: In my free time I am interested in sports and computer technology.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:bindiuua@gmail.com)
 
