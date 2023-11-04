@@ -16,19 +16,11 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TUFFI2033&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
 
-My name is Ivan. I am an IOS Developer from Ukraine. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Ivan and I am 22 years old. I am an iOS developer from Ukraine. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 💻 I am studying and practicing mobile app development.
 
