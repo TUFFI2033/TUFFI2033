@@ -24,7 +24,7 @@ My name is Ivan and I am 22 years old. I am an iOS developer from Ukraine. <img 
 
 - 💻 I am studying and practicing mobile app development.
 
-- :zap: In my free time I am interested in 3D modeling and computer technology.
+- :zap: In my free time I am interested in robotics and computer technology.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:bindiuua@gmail.com)
 
