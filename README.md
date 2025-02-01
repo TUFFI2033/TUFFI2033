@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 
-My name is Ivan and I am 22 years old. I am an iOS developer from Ukraine. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Ivan and I am 23 years old. I am an iOS developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 💻 I am studying and practicing mobile app development.
 
